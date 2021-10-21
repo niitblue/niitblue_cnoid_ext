@@ -1,0 +1,13 @@
+format: CrawlerRobotBuilderYaml
+formatVersion: 1.0
+name: CrawlarRobotFF_CrawlerRobotBuilderConfig
+configs: 
+  - 
+    doubleSpin: [ 8, 0.45, 0.3, 0.1, 1, 0.08, 0.1, 0.42, 0.25, 0.08, 0.08, 0.08, 0.13, 0.25, 0.08, 0.08, 0.08, 0.13, 0.2, 0.06, 0.01 ]
+    spin: [ 42, 3, 4, 6, 99, 10, 42, 3, 4, 6, 99, 10 ]
+    button0: [ 0, 0.333333, 1 ]
+    button1: [ 0.2, 0.2, 0.2 ]
+    button2: [ 0.2, 0.2, 0.2 ]
+    button3: [ 0.2, 0.2, 0.2 ]
+    button4: [ 1, 1, 1 ]
+    check: [ true, true, false ]
